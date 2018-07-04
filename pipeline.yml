@@ -103,7 +103,7 @@ resources:
 - name: bbr-pipeline-tasks-repo
   type: git
   source:
-    uri: https://github.com/kirananil007/pcf_bbr_backup.git
+    uri: https://github.com/kirananil007/pcf-backup-origin.git
     branch: master
 - name: om-backup-artifact
   type: s3
